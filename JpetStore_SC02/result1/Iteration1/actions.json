@@ -1,0 +1,100 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: Catalog.action",
+                "infFile": "t1.inf",
+                "time": 1716440197695
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: Sign In",
+                "infFile": "t2.inf",
+                "time": 1716440197977
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Submit Data: Account.action",
+                "infFile": "t3.inf",
+                "time": 1716440198756
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: My Account",
+                "infFile": "t4.inf",
+                "time": 1716440199104
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: My Orders",
+                "infFile": "t5.inf",
+                "time": 1716440222806
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: 1849",
+                "infFile": "t6.inf",
+                "time": 1716440270755
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: Sign Out",
+                "infFile": "t7.inf",
+                "time": 1716440271676
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "Jpet_Store_SC02_TC01_Launch",
+                "rawStartTime": 1716440196003,
+                "rawEndTime": 1716440197697,
+                "thinkTime": 0.0,
+                "wastedTime": 0.24292826652526856
+            },
+            {
+                "transactionName": "Jpet_Store_SC02_TC02_Sign_In",
+                "rawStartTime": 1716440197728,
+                "rawEndTime": 1716440197992,
+                "thinkTime": 0.0,
+                "wastedTime": 0.012943267822265625
+            },
+            {
+                "transactionName": "Jpet_Store_SC02_TC03_Login",
+                "rawStartTime": 1716440198023,
+                "rawEndTime": 1716440198766,
+                "thinkTime": 0.0,
+                "wastedTime": 0.02558159828186035
+            },
+            {
+                "transactionName": "Jpet_Store_SC02_TC04_My_Account",
+                "rawStartTime": 1716440198798,
+                "rawEndTime": 1716440199123,
+                "thinkTime": 0.0,
+                "wastedTime": 0.01258707046508789
+            },
+            {
+                "transactionName": "Jpet_Store_SC02_TC05_Click_On_My_Order",
+                "rawStartTime": 1716440199154,
+                "rawEndTime": 1716440222834,
+                "thinkTime": 0.0,
+                "wastedTime": 5.836629629135132
+            },
+            {
+                "transactionName": "Jpet_Store_SC02_TC06_Click_On_Order_ID",
+                "rawStartTime": 1716440222866,
+                "rawEndTime": 1716440270765,
+                "thinkTime": 0.0,
+                "wastedTime": 0.008256196975708008
+            },
+            {
+                "transactionName": "Jpet_Store_SC02_TC07_Sign_Out",
+                "rawStartTime": 1716440270788,
+                "rawEndTime": 1716440271689,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00927877426147461
+            }
+        ]
+    }
+]

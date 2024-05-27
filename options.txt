@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\mmahe\OneDrive\Desktop\New folder\JpetStore_SC02_MyAccount
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\mmahe\onedrive\desktop\new folder\jpetstore_sc02_myaccount\\logfile.log
+c:\users\mmahe\onedrive\desktop\new folder\jpetstore_sc02_myaccount\\combined_JpetStore_SC02_MyAccount.c
+c:\users\mmahe\onedrive\desktop\new folder\jpetstore_sc02_myaccount\\pre_cci.c

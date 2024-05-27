@@ -1,0 +1,20 @@
+Start auto log messages stack - Iteration 9.	[MsgId: MMSG-10545]
+Action.c(140): Resource "https://petstore.octoperf.com/images/sm_fish.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(140): Resource "https://petstore.octoperf.com/images/sm_dogs.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(140): Resource "https://petstore.octoperf.com/images/sm_reptiles.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(140): Resource "https://petstore.octoperf.com/images/sm_cats.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(140): Resource "https://petstore.octoperf.com/images/sm_birds.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(140): Error -27760: Request "https://petstore.octoperf.com/actions/Order.action?listOrders=" failed  	[MsgId: MERR-27760]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10.	[MsgId: MMSG-10545]
+Action.c(140): Resource "https://petstore.octoperf.com/images/sm_fish.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(140): Resource "https://petstore.octoperf.com/images/sm_dogs.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(140): Resource "https://petstore.octoperf.com/images/sm_reptiles.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(140): Resource "https://petstore.octoperf.com/images/sm_cats.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(140): Resource "https://petstore.octoperf.com/images/sm_birds.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(140): Error -27760: Request "https://petstore.octoperf.com/actions/Order.action?listOrders=" failed  	[MsgId: MERR-27760]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

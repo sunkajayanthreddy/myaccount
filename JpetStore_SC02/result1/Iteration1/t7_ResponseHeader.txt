@@ -1,0 +1,10 @@
+HTTP/2.0 200
+Status: 200
+date: Thu, 23 May 2024 11:58:05 GMT
+content-type: text/html;charset=UTF-8
+vary: Accept-Encoding
+set-cookie: JSESSIONID=7B962C13E9DEF57BEE88448958F0308E; Path=/; HttpOnly
+content-language: en-US
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+content-encoding: gzip
+

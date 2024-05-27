@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\JpetStore_SC02\JpetStore_SC02\JpetStore_SC02\JpetStore_SC02
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ed:\jpetstore_sc02\jpetstore_sc02\jpetstore_sc02\jpetstore_sc02\\logfile.log
+d:\jpetstore_sc02\jpetstore_sc02\jpetstore_sc02\jpetstore_sc02\\combined_JpetStore_SC02.c
+d:\jpetstore_sc02\jpetstore_sc02\jpetstore_sc02\jpetstore_sc02\\pre_cci.c
